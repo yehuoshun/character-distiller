@@ -2,7 +2,6 @@
 
 > 从长文本中蒸馏角色 — LLM 两阶段流水线，输出 SillyTavern 角色卡或结构化角色技能文件夹。
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Methodology](https://img.shields.io/badge/methodology-LLM%20Pipeline-green)]()
 [![English](https://img.shields.io/badge/docs-English-blue)](README.md)
 
@@ -121,6 +120,3 @@ character-distiller/
 
 原项目提供完整的 Flask Web 应用，包含 VNDB 集成、断点续传、流式响应等工程实现。本仓库将其核心蒸馏方法论抽象为 Prompt 模板和 Agent 工作流，使其可以在纯 Agent + LLM 环境下运行。
 
-## 📄 License
-
-MIT © 2026

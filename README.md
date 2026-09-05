@@ -2,7 +2,6 @@
 
 > Distill characters from long-form text — LLM two-stage pipeline, outputting SillyTavern character cards or structured skill folders.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Methodology](https://img.shields.io/badge/methodology-LLM%20Pipeline-green)]()
 [![中文文档](https://img.shields.io/badge/文档-中文-red)](README_CN.md)
 
@@ -121,6 +120,3 @@ This project's methodology is derived from **[JodieRuth/GalgameCharacterSkills](
 
 The original project provides a complete Flask web application with VNDB integration, checkpoint resume, streaming responses, and more. This repository abstracts the core distillation methodology into prompt templates and Agent workflows, enabling pure Agent + LLM operation.
 
-## 📄 License
-
-MIT © 2026
